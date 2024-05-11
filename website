@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kullanışlı bilgiler!</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Teknoloji Bağımlılığı</title>
+</head>
+<body>
+    <h1>Teknoloji bağımlılığından nasıl kurtulunabilir</h1>
+    <p>Teknoloji ve internetin bilinçli olmayan, kontrolsüz bir şekilde kullanımına bağlı olarak ortaya çıkan davranışsal bağımlılıklar; oyun oynama bozukluğu, kumar oynama bozukluğu, sosyal medyanın ve akıllı telefonun aşırı kullanımı gibi bağımlılık yapıcı alt davranışlarla kendini gösteren bağımlılık türü teknoloji bağımlılığı olarak tanımlanır.</p>
+    <h2>Bağımlılıktan kurtul!</h2>
+             <ul>
+                   <li>Teknoloji kullanımını tam zıt saatlere kaydırmak. ...</li>
+                   <li>Dış durdurucular kullanmak. ...</li>
+                   <li>Teknoloji kullanımıyla ilgili hedefler belirlemek. ...</li>
+                   <li>Çok kullanılan belli işlevlerden uzak durmak. ...</li>
+                   <li>Hatırlatıcı kartlar kullanmak. ...</li>
+                   <li>Kişisel defter oluşturmak. ...</li>
+                   <li>Aile terapisine başvurmak. ...</li>
+                   <li>Hedefler koymak.</li>
+                   
+             </ul>
+    <h3>Teknolojinin zararları:</h3>
+            <ul>
+                
+                    
+              
+                <li>İşsizlik artmıştır.</li>
+                <li>İnsanlar mevcut kültürel değerlerini kaybetmeye başlamıştır.</li>
+                <li>Televizyon ve internet aile içi iletişimi koparmış ve insanları yalnızlığa sürüklemiştir.</li>
+               
+                
+                
+        </ul>
+
+        <iframe src="https://www.meteoblue.com/tr/hava/widget/daily/ip_romanya_675514?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/tr/hava/hafta/ip_romanya_675514?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+    <img src="https://www.gelgez.net/wp-content/uploads/2018/03/teknoloji-neden-onemlidir-nasil-kullanilmali-fotograflar-5-gelgez-700x420.jpg" alt="Image1"
+    width="400"
+    height="300">
+    <img src="https://ilkokul.tbm.org.tr/Content/Uploads/Sayfalar/ilkokul-teknoloji-bagimliligi.png?x_5213" alt="Image2"
+    width="400"
+    height="300">
+    <img src="https://slideplayer.biz.tr/slide/3407678/11/images/21/Teknoloji+Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1%C4%9F%C4%B1ndan+Kurtulmak+%C4%B0%C3%A7in+Ne+Yapmal%C4%B1.jpg" alt="Image3"
+    width="400"
+    height="300">
+   
+    
+</body>
+</html>
