@@ -1,49 +1,75 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Kullanışlı bilgiler!</title>
+    <title>Synom</title>
     <link rel="stylesheet" href="style.css">
-    <title>Teknoloji Bağımlılığı</title>
+    <title>Ana Sayfa</title>
 </head>
 <body>
-    <h1>Teknoloji bağımlılığından nasıl kurtulunabilir</h1>
-    <p>Teknoloji ve internetin bilinçli olmayan, kontrolsüz bir şekilde kullanımına bağlı olarak ortaya çıkan davranışsal bağımlılıklar; oyun oynama bozukluğu, kumar oynama bozukluğu, sosyal medyanın ve akıllı telefonun aşırı kullanımı gibi bağımlılık yapıcı alt davranışlarla kendini gösteren bağımlılık türü teknoloji bağımlılığı olarak tanımlanır.</p>
-    <h2>Bağımlılıktan kurtul!</h2>
-             <ul>
-                   <li>Teknoloji kullanımını tam zıt saatlere kaydırmak. ...</li>
-                   <li>Dış durdurucular kullanmak. ...</li>
-                   <li>Teknoloji kullanımıyla ilgili hedefler belirlemek. ...</li>
-                   <li>Çok kullanılan belli işlevlerden uzak durmak. ...</li>
-                   <li>Hatırlatıcı kartlar kullanmak. ...</li>
-                   <li>Kişisel defter oluşturmak. ...</li>
-                   <li>Aile terapisine başvurmak. ...</li>
-                   <li>Hedefler koymak.</li>
-                   
-             </ul>
-    <h3>Teknolojinin zararları:</h3>
-            <ul>
-                
-                    
-              
-                <li>İşsizlik artmıştır.</li>
-                <li>İnsanlar mevcut kültürel değerlerini kaybetmeye başlamıştır.</li>
-                <li>Televizyon ve internet aile içi iletişimi koparmış ve insanları yalnızlığa sürüklemiştir.</li>
-               
-                
-                
-        </ul>
-
-        <iframe src="https://www.meteoblue.com/tr/hava/widget/daily/ip_romanya_675514?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/tr/hava/hafta/ip_romanya_675514?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
-    <img src="https://www.gelgez.net/wp-content/uploads/2018/03/teknoloji-neden-onemlidir-nasil-kullanilmali-fotograflar-5-gelgez-700x420.jpg" alt="Image1"
-    width="400"
-    height="300">
-    <img src="https://ilkokul.tbm.org.tr/Content/Uploads/Sayfalar/ilkokul-teknoloji-bagimliligi.png?x_5213" alt="Image2"
-    width="400"
-    height="300">
-    <img src="https://slideplayer.biz.tr/slide/3407678/11/images/21/Teknoloji+Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1%C4%9F%C4%B1ndan+Kurtulmak+%C4%B0%C3%A7in+Ne+Yapmal%C4%B1.jpg" alt="Image3"
-    width="400"
-    height="300">
+    <h1>Paylaşımlar</h1>
+    
+             
    
+
+        
+
+        
+    <img src="https://www.muratcangumus.com/wp-content/uploads/2017/04/insan-resimleri-zanzibar-beach-boy-Muratcan-Gumus-www.muratcangumus.com_.jpg" alt="Image1"
+    width="400"
+    height="300">
+    <h2>Jonathanxx</h2>
+
+    <img src="https://img.memurlar.net/galeri/7396/c285ea33-236f-e411-926b-14feb5cc13c9.jpg?width=800" alt="Image2"
+    width="400"
+    height="300">
+    <h3>Marykater</h3>
+    <img src="https://farm9.staticflickr.com/8672/16527203002_1c56a98dfd_c.jpg" alt="Image3"
+    width="400"
+    height="300">
+    <h4>loweebe</h4>
+    <img src="https://imgrosetta.mynet.com.tr/file/12542816/640xauto.jpg" alt="Image3"
+    width="400"
+    height="300">
+    <h5>Muaart</h5>
+    <img src="https://imgrosetta.mynet.com.tr/file/12542603/640xauto.jpg" alt="Image3"
+    width="400"
+    height="300">
+    <h6>stick_hood</h6>
+    <img src="https://www.muratcangumus.com/wp-content/uploads/2017/02/insan-resimleri-fotograflari-viyana-karlsplatz-muratcangumus.com_.jpg" alt="Image3"
+    width="400"
+    height="300">
+    <h7>katerin_jane</h7>
+    <img src="https://i.pinimg.com/236x/c4/6b/87/c46b876c8c7f9fd69a6b1ccef9a9376b.jpg" alt="Image3"
+    width="400"
+    height="300">
+    <h8>Cat_and_childs</h8>
+    
+    
+
+
+
+
+
+
+
+
+    <p>Sizin için hava durumu!!!!</p>
+    
+    
+
+
+    <iframe src="https://www.meteoblue.com/tr/hava/widget/daily/ip_romanya_675514?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/tr/hava/hafta/ip_romanya_675514?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+    
+
+    
+    
+
+
+
+
+
+    <p>Haberlere bakmak için aşağıdaki bağlantıya tıklayın</p>
+    <h9>https://www.haberturk.com</h9>
     
 </body>
 </html>
